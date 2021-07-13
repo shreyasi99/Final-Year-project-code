@@ -1,0 +1,13 @@
+[DEFAULT]
+BASEURL=http://rapid-soft.blogspot.com/
+[DOC#656]
+BASEURL=http://www.google.com/reviews/polls/display/7992528944395200471/blogger_template/run_app?txtclr=%23333333&lnkclr=%23336688&chrtclr=%23336688&font=normal+normal+100%25+Georgia%2CSerif&hideq=true&purl=http%3A%2F%2Frapid-soft.blogspot.com%2F&u_java=true&u_h=768&u_w=1024&u_cd=32&u_tz=120&u_p=done
+ORIGURL=http://www.google.com/reviews/polls/display/7992528944395200471/blogger_template/run_app?txtclr=%23333333&lnkclr=%23336688&chrtclr=%23336688&font=normal+normal+100%25+Georgia%2CSerif&hideq=true&purl=http%3A%2F%2Frapid-soft.blogspot.com%2F
+[DOC#656_commframe]
+BASEURL=http://rapid-soft.blogspot.com/robots.txt
+ORIGURL=http://rapid-soft.blogspot.com/robots.txt#201
+[InternetShortcut]
+URL=http://rapid-soft.blogspot.com/
+Modified=80424B0EB43DC801D5
+IconFile=http://rapid-soft.blogspot.com/favicon.ico
+IconIndex=1
