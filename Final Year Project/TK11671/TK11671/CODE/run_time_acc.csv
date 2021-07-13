@@ -1,0 +1,7 @@
+Model,Accuracy
+KMeans Clustering,0.583333333
+Agglomerative Clustering,0.485416667
+Naïve Bayes,0.763888889
+Decision Tree (untuned),0.666666667
+decision Tree (tuned),0.777777778
+Naïve Bayes + Kmeans Clustering,0.666666667
